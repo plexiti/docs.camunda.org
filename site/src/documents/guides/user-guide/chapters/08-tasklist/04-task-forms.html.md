@@ -9,8 +9,7 @@ The Tasklist can work with different types of forms. To implement a Task Form in
 
 ## Embedded Task Forms
 
-To add an embedded Task Form to your application simply create an html file and attach it to a [User Task](ref:/api-references/bpmn20/#tasks-user-task) or a [Start Event](ref:/api-references/bpmn20/#events-start-events) in your process model. 
-Add a folder `scr/main/webapp/forms` to your project folder and create a FORM_NAME.html file containing the relevant content for your form. The following example shows a simple form with two input fields:
+Add a folder `src/main/webapp/forms` to your project folder and create a FORM_NAME.html file containing the relevant content for your form. The following example shows a simple form with two input fields:
 
 ```html
 <form class="form-horizontal">
@@ -79,4 +78,3 @@ The generic form will be used whenever you have not added a dedicated form for a
     Hit the <button class="btn btn-xs"><i class="glyphicon glyphicon-plus"></i> </button> button to add a variable that will be passed to the process instance upon task completion. State a variable name and select the type and enter the desired value. Enter as much variables as you need. 
     After hitting the <code>Complete Task</code> button the process instance contains the entered values. Generic Task Forms can be very helpful during the development stage, so you do not need to implement all Task Forms before you can run a workflow. For debugging and testing this concept has many benefits as well.
   </div>  
-</div>

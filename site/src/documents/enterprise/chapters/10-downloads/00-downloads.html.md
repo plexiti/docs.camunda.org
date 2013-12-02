@@ -55,12 +55,10 @@ title: 'Latest Version'
       <td>
         <a class="btn btn-sm btn-default" href="http://www.camunda.org/enterprise-release/camunda-bpm/ibm-was/7.0/7.0.4/camunda-ee-ibm-was-7.0.4-ee.zip">zip</a>&nbsp;
         <a class="btn btn-sm btn-default" href="http://www.camunda.org/enterprise-release/camunda-bpm/ibm-was/7.0/7.0.4/camunda-ee-ibm-was-7.0.3-ee.tar.gz">tar.gz</a><br>
-<<<<<<< HEAD
-=======
       </td>
     </tr>
     <tr>
-      <td>7.1.0-alpha1 (<a target="_blank" href="http://camundabpm.blogspot.com/2013/08/camunda-BPM-7.1.0-alpha1-released.html">Release Notes</a>)</td>
+      <td>7.1.0-alpha1 (<a target="_blank" href="http://camundabpm.blogspot.com/2013/11/camunda-BPM-7.1.0-alpha1-released.html">Release Notes</a>)</td>
       <td>28.11.2013</td>
       <td>
         <a class="btn btn-sm btn-default" href="http://www.camunda.org/enterprise-release/camunda-bpm/tomcat/nightly/7.1.0-alpha1/camunda-bpm-tomcat-7.1.0-alpha1-ee.zip">zip</a>&nbsp;
@@ -77,7 +75,6 @@ title: 'Latest Version'
       <td>
         <a class="btn btn-sm btn-default" href="http://www.camunda.org/enterprise-release/camunda-bpm/ibm-was/nightly/7.1.0-alpha1/camunda-ee-ibm-was-7.1.0-alpha1-ee.zip">zip</a>&nbsp;
         <a class="btn btn-sm btn-default" href="http://www.camunda.org/enterprise-release/camunda-bpm/ibm-was/nightly/7.1.0-alpha1/camunda-ee-ibm-was-7.1.0-alpha1-ee.tar.gz">tar.gz</a><br>
->>>>>>> 83dd2c670d6f9da6da2dcb22db9004738c9c142c
       </td>
     </tr>
   </tbody>
